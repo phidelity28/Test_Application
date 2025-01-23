@@ -18,3 +18,17 @@ git fork means you are copying the repository to your GitHub account.
 git pull means you are fetching the last modified repository.
 git push means you are returning the repository after modifying it.
 git clone is downloading and git pull is refreshing.
+
+**Create a Basic Git Syntax Guide**
+
+
+### Basic git commands
+1) git init
+2) git add 
+3) git commit
+4) git clone  Means you are making a working copy of a repo on your system
+5) git fork Means you are copying a github repo to your github account
+6) git pull  Means your are fetching the last modified repo
+7) git clone Means you are  downloading the full repo  where as git pull is refreshing an existing  repo
+
+ 
