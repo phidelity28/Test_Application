@@ -247,6 +247,7 @@ Some resources have detectors, (a resource counting system) and when there are n
 
 
 [Source php docs](https://www.php.net/manual/en/language.types.resource.php)
+
 [List of Resource types](https://www.php.net/manual/en/resource.php)
 
 
@@ -462,5 +463,5 @@ echo "<p>ID : ". $post["BlogID"] ."&nbsp Date : ". $post['FormattedDate']."</p>"
 }
 ```
 
-See [[GPT  MySQL Dates#Prompt]]
+
 
